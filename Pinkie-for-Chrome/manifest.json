@@ -1,0 +1,33 @@
+{
+  "manifest_version": 2,
+  "version": "1.3.0",
+  "name": "Pinkie for Chrome",
+  "description": "For cute girls and gentle boys ~ ♡",
+  "author": "JustDuyen",
+  "icons": {
+    "128": "icon.png"
+  },
+  "theme": {
+    "images": {
+      "theme_ntp_background": "images/ntp_bg_v4.png"
+    },
+    "colors": {
+      "frame": [255, 239, 246],
+      "frame_inactive": [255, 246, 250],
+      "toolbar": [255, 253, 253],
+      "tab_text": [212, 75, 139],
+      "tab_background_text": [151, 140, 149],
+      "background_tab": [241, 211, 226],
+      "bookmark_text": [212, 75, 139],
+      "ntp_background": [255, 239, 246],
+      "ntp_text": [212, 75, 139],
+      "button_background": [255, 239, 246],
+      "omnibox_background": [255, 253, 253],
+      "omnibox_text": [212, 75, 139]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom right",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
